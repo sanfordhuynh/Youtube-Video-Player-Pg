@@ -354,6 +354,6 @@ main {
     display: flex;
     justify-content: space-between;
     position: relative;
-    padding: 0px;
+    padding: 0px 400px;
   }
 }
